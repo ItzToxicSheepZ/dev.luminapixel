@@ -1,6 +1,11 @@
 .lp_nav{
 background-color: #a335ad4f;
 color: white;
+border-top-left-radius: 25%;
+border-top-right-radius: 25%;
+border-bottom-left-radius: 25%;
+border-bottom-right-radius: 25%;
+border-color: white;
 }
 body{
 background-color: black;

@@ -1,8 +1,8 @@
 .lp_nav{
 background-color: #a335ad4f;
 color: white;
-border-color: white;
-border-width: 2cm;
+border: 6px solid #1C6EA4;
+border-radius: 40px 40px 40px 40px;
 }
 body{
 background-color: black;

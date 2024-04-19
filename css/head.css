@@ -7,5 +7,8 @@ body{
 background-color: black;
 }
 .lp_nav_text{
-    color: red;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-right: 100%;
 }
+
